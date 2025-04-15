@@ -66,6 +66,6 @@ class Employee
 				teacher[i].display();
 			}
 		}
-	}	
+	}	 
 			
 				
